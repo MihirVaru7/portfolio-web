@@ -16,7 +16,7 @@ export const Footer: Component = () => {
             </A>
             <p>
               Created with ❤️ by{" "}
-              <A href="https://github.com/linventif" class="link">
+              <A href="https://github.com/MihirVaru7" class="link">
                 Mihir Varu
               </A>
             </p>
