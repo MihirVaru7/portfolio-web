@@ -17,6 +17,11 @@ const socialLinks = [
     href: "https://www.linkedin.com/in/mihir-varu-2a4a4a263/",
     fontAwesomeIcon: "fab fa-linkedin",
   },
+  {
+    title: "phone",
+    href: "tel:+917778826655",
+    fontAwesomeIcon: "fas fa-phone",
+  }
 ];
 
 export const Social: Component = () => {
